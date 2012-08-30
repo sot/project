@@ -2,6 +2,6 @@
 
 print 'hello'
 
-print 'worldly'
+print 'world'
 
 print 'Here is the cool new feature'
