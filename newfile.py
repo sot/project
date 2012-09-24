@@ -1,1 +1,1 @@
-Amanda Rocks!  Prop is the best!
+Amanda, Matt, Tom, and Jean Rock!  Prop, Thermal, and Aspect are the best!
